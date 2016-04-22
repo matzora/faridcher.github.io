@@ -33,7 +33,7 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Formula {% raw %}$\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}${% endraw %}:
+Formula {% raw %}\(\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}\){% endraw %}:
 
 {% raw %}
 $$\frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}$$
