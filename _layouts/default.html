@@ -9,9 +9,10 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    {% if page.use_math %}
+    
+    {% if page.mathjax == true %}
       {% include mathjax_support %}
-    {% endif %} 
+    {% endif %}
   </head>
 
   <body>
