@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Farid Cheraghi"
 description              : "My persoanl website."
-url                      : "http://faridcher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://faridcher.github.io" # the base hostname & protocol for your site e.g. "http://faridcher.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -28,7 +28,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
+google_site_verification : "O4LFFCsCS9ZG0wvt0p3PNhqXEG13_bCOydgrMJuv_hA"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
