@@ -37,7 +37,7 @@ PhD|Geographical Information Science (GIS)|[University of Tehran](http://ut.ac.i
 [Verification](http://www.esri.com/CertificationVerification){: .btn .btn--info} D325ED122JQ41QWZ
 
 ### Online Course
-I am taking some MOOCs at the moment and will fill this section upon completion of the courses.
+- Machine Learning by Stanford University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/GZLLTAVPWQ3U) earned on April 27, 2016 
 
 ## Technologies
 A compact list of the technologies that I have had real world projects and I care about.
