@@ -17,7 +17,7 @@ gallery:
 ---
 {% include toc icon="" title="Table of Contents" %}
 
-I have worked with ESRI products since I graduated from university in 2010. I have been part of many national GIS projects in both private and governmental sectors although my focus of contributions has been on utility (electricity, gas and etc) and municipality GIS application. Here are an excerpt of my projects:
+I have started working seriously with ESRI products since I graduated from university in 2010. I have been part of many national GIS projects in both private and governmental sectors although my focus of contributions has been on utility (electricity, gas and etc) and municipality GIS application. Here are an excerpt of my projects:
 
 ## ArcObjects
 I love ArcObjects due to its matureness. There is almost no GIS library that is as complete as ArcObjects. ArcObjects is robust, stable and covers almost any GIS task from trivial spatial query processing to advanced network analysis. Many believes learning ArcObjects has a steep learning curve and I admit they are right. However I have been involved with ArcObjects development since 2010. As of today I am able to solve even the [toughest GIS problems](http://gis.stackexchange.com/questions/165077/how-to-add-a-new-parcel-inside-parcel-fabric-from-existing-parcel-features-arco/166021#166021) with ArcObjects in a timely manner.
@@ -42,7 +42,7 @@ Although it is feasible to manage users and define security levels for data sour
 ### Basemap Manager
 Google maps are appealing and everybody loves them. This ArcGIS Addin utilizes Google maps API and add the following functionalities to ArcMap:
 
-- Add Google maps and satellite imagery layer to ArcMap as a WMTS layer and supports tile caching. Can be used in online and offline mode
+- Add Google maps and satellite imagery layers to ArcMap as a WMTS layer and supports tile caching. It can be used in online and offline mode
 - Support for Google Geocoding API: Users can search places from within ArcMap
 - Uses HTML5 Geolocation API to locate ArcMap user location on the map (this feature needs active Internet connection)
 
@@ -54,7 +54,7 @@ I have used "Editor Extension" to create editor construction tools to draw featu
 Geodatabase extension is the best approach to feature's update/insert/delete event handling because they are application independent. I have used them with projects that the edits come from both web, mobile and enterprise users.
 
 ### SOE
-Although an Arcpy script can be shared as a Geoprocessing tool and be used by ArcGIS Server, yet they are not very efficient meaning they have a huge memory footprint. For fine grained and repeated work-flows ESRI suggests `Server Objects Extension (SOE)`. I have not been involved in many "ArcGIS Server" based projects but I have exposed some of my handy functions (e.g. network tracers) as `RESTful` web services through SOE. Therefore ArcGIS web clients such as Javascript can consume them efficiently.
+Although an Arcpy script can be shared as a Geoprocessing tool and be used by ArcGIS Server, yet they are not very efficient, meaning they have a huge memory footprint. For fine grained and repeated work-flows ESRI suggests `Server Objects Extension (SOE)`. I have not been involved in many "ArcGIS Server" based projects but I have exposed some of my handy functions (e.g. network tracers) as `RESTful` web services through SOE to be called by 3rd parties applications. In addition, piping a functionality through standard OGC web services allows ArcGIS web clients such as Javascript to consume them efficiently.
 
 ## ArcPy
 I have written many python (Arcpy) scripts to automate my workflows. Python is part of ArcGIS system and it is integrated with different sections of the software - ArcGIS system without python is not imaginable. An excerpt of my python scripts:
@@ -68,7 +68,7 @@ I have written many python (Arcpy) scripts to automate my workflows. Python is p
 
 ## ArcSDE
 For customers that software related price is a critical parameter I always suggest PostgreSql as the database back-end. PostgreSql is both free and powerful and ESRI supports it comprehensively. Although I still believe no database could bit Oracle in terms of performance. I have used PG in my projects with ESRI `sde` data type and functions which is independent from PostGIS. Furthermore I always suggest "ArcSDE direct connect" with the native DBMS client as per ESRI recommendation.
-In addition I have utilized many of enterprise level PostgreSql features in miscellaneous projects as follows:
+In addition I have utilized many of enterprise level PostgreSql backup features in miscellaneous projects as follows:
 
 - Hot backup
 - Weekly base backup with daily incremental backup
