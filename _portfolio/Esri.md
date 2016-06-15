@@ -67,7 +67,7 @@ I have written many python (Arcpy) scripts to automate my workflows. Python is p
 
 
 ## ArcSDE
-For customers that software related price is a critical parameter I always suggest PostgreSql as the database back-end. PostgreSql is both free and powerful and ESRI supports it comprehensively. Although I still believe no database could bit Oracle in terms of performance. I have used PG in my projects with ESRI `sde` data type and functions which is independent from PostGIS. Furthermore I always suggest "ArcSDE direct connect" with the native DBMS client as per ESRI recommendation.
+For customers that software related price is a critical parameter I always suggest PostgreSql as the database back-end. PostgreSql is both free and powerful and ESRI supports it comprehensively. Although I still believe no database could beat Oracle in terms of performance and scalability. I have used PG in my projects with ESRI `sde` data type and functions which is independent from PostGIS. Furthermore I always suggest "ArcSDE direct connect" with the native DBMS client as per ESRI recommendation.
 In addition I have utilized many of enterprise level PostgreSql backup features in miscellaneous projects as follows:
 
 - Hot backup
