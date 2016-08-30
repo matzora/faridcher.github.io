@@ -38,6 +38,7 @@ PhD|Geographical Information Science (GIS)|[University of Tehran](http://ut.ac.i
 
 ### Online Course
 - Machine Learning by Stanford University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/GZLLTAVPWQ3U) earned on April 27, 2016
+- Statistical Learning by Stanford University on Stanford | Online. [Certificate](https://verify.lagunita.stanford.edu/SOA/15c78c5b8e984b288256bc4d4327f6c3) earned on August 30, 2016
 
 ## Technologies
 A compact list of the technologies that I have had real world projects and I care about.
