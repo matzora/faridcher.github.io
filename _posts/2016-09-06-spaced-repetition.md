@@ -19,7 +19,7 @@ Up to now we know that this spaced repetition is in harmony with our brain syste
 
 "how do we integrate it with our learning habits"?
 
-I spend most of my time to study on my thesis, programming and learning more literary English. When I learn a new notion related to my field of study, a new programming function or a English word I used to write it somewhere on my computer. The problem with this approach is: although I promised myself to review the material, I would not. 
+I spend most of my time to study on my thesis, programming and learning more literary English. When I learn a new notion related to my field of study, a new programming function or a English word I used to write it somewhere on my computer. The problem with this approach is: although I promised myself to review the material, I would not. In future I have to spend the same amount of time to remember or even worse to re-learn the piece of chunk.
 
 ## Anki
 
