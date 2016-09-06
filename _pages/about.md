@@ -14,9 +14,15 @@ modified: 2016-04-22T10:00:00
 
 {% include base_path %}
 
+<h3 class="archive__subtitle">Recent News</h3>
+<!-- I am a visiting scholar at university of Maryland College Park. -->
+- I am a 4th year PhD candidate at university of Tehran (08-25-2016).
+ 
 {% include toc icon="" title="Table of Contents" %}
 
-Despite my background in surveying engineering I have had a passion for computer science since high school. The only reason I chose GIS as my graduate level major was its closeness and relevance to computer science. I have worked with different software companies and have developed miscellaneous applications based on many software platforms specially in GIS.
+## Intro
+
+My background roots in surveying and Geomatics engineering, although I have had a passion for computer science since high school. I chose GIS engineering as my graduate level major due its closeness and relevance to computer science. I have worked with different software companies and have developed miscellaneous applications based on many software platforms specially in GIS.
 
 I have a growing passion for open-source software and contributed to some packages, all can be found on my [github profile](https://github.com/faridcher). I usually compile and use open source tools that are written via GNU C++ in Windows using Ming/Msys.
 
@@ -59,4 +65,4 @@ Among many programming languages available for scientific purposes including Pyt
 For academic writings I use RMarkdown, LateX and MS Word in order of preference. Text based formats (`.rmd`,`.tex`,`.rnw`) are always preferred because they can simply be versioned.
 
 ## Language
-English(Fluent), Persian (Native)
+English (Fluent), Persian (Native)
