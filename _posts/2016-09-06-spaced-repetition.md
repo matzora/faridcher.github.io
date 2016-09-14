@@ -19,7 +19,7 @@ Up to now we know that this spaced repetition is in harmony with our brain syste
 
 "how do we integrate it with our learning habits"?
 
-I spend most of my time to study on my thesis, programming and learning more literary English. When I learn a new notion related to my field of study, a new programming function or a English word I used to write it somewhere on my computer. The problem with this approach is: although I promised myself to review the material, I would not. In future I have to spend the same amount of time to remember or even worse to re-learn the piece of chunk.
+I spend most of my time to study on my thesis, programming and learning more literary English. When I learn a new notion related to my field of study, a new programming function or an English word I used to write it somewhere on my computer. The problem with this approach is: although I promised myself to review the material, I would not. In future I have to spend the same amount of time to remember or even worse to re-learn the piece of chunk.
 
 ## Anki
 
@@ -27,4 +27,4 @@ I spend most of my time to study on my thesis, programming and learning more lit
 
 ![anki]({{base_path}}/images/Rmarkdown_files/anki.jpg)
 
-As of the date I started to use the tool, my learning style is totally changed. Instead of justing writing new stuff somewhere I try to make a simple question out of the newly learned notion, programming function or vocabulary; then add it (create card) to the Anki. At the end of the day spare 10-20 minutes reviewing the cards I have created. Anki has a scoring system: you answer to your own created questions by just recalling and subsequently scoring your answers basing on the strength of your recall. If you recall the answer instantly, It is likely that the answer resides in your long-term memory; on the contrary if you hardly recall the idea, you will tell Anki to re-show the question in the next 1-4 days. The more comfortable you become with the answer the more spaced repetition of the card happens. 
+As of the date of this writing, I started to use the tool, my learning style is totally changed. Instead of just writing new stuff somewhere I try to make a simple question out of the newly learned notion, programming function or vocabulary; then add it (create card) to the Anki. At the end of the day spare 10-20 minutes reviewing the cards I have created. Anki has a scoring system: you answer to your own created questions by just recalling and subsequently scoring your answers on the basis of your recall strength. If you recall the answer instantly, It is likely that the answer resides in your long-term memory; on the contrary if you hardly recall the idea, you will tell Anki to re-show the question in the next 1-4 days. The more comfortable you become with the answer the more spaced repetition of the card will happen.
