@@ -43,10 +43,10 @@ PhD|Geographical Information Science (GIS)|[University of Tehran](http://ut.ac.i
 [Verification](http://www.esri.com/CertificationVerification){: .btn .btn--info} D325ED122JQ41QWZ
 
 ### Online Course
-- Machine Learning by Stanford University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/GZLLTAVPWQ3U) earned on April 27, 2016
-- Statistical Learning by Stanford University on "Stanford Online". [Certificate](https://verify.lagunita.stanford.edu/SOA/15c78c5b8e984b288256bc4d4327f6c3) earned on August 30, 2016
-- Learning How to Learn: Powerful mental tools to help you master tough subjects by UC San Diego University on Coursera. [Certificate](coursera.org/verify/UXGT3E57GERA) earned on September 1, 2016
-- R Programming by Johns Hopkins University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/J6NKMQ5NU93A) earned on September 19, 2016
+- "Machine Learning" by Stanford University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/GZLLTAVPWQ3U) earned on April 27, 2016
+- "Statistical Learning" by Stanford University on "Stanford Online". [Certificate](https://verify.lagunita.stanford.edu/SOA/15c78c5b8e984b288256bc4d4327f6c3) earned on August 30, 2016
+- "Learning How to Learn: Powerful mental tools to help you master tough subjects" by UC San Diego University on Coursera. [Certificate](coursera.org/verify/UXGT3E57GERA) earned on September 1, 2016
+- "R Programming" by Johns Hopkins University on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/J6NKMQ5NU93A) earned on September 19, 2016
 
 ## Technologies
 A compact list of the technologies that I have had real world projects and I care about.
