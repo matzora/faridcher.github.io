@@ -9,9 +9,7 @@ tags:
   - R
 ---
 
-## Intro
-
-A while ago I took an online machine learning course offer by Andrew NG on coursera platform. The course was spectacular although all the assignments MUST be sumbited via MATLAB/OCTAVE. This would be tedious effort for users who have spent a lot of time learning the basics of R language. Thus, I developed all the starter codes for R users in order to be able to carry on their assignment in R and submit them to Coursera directly from R. For more information visit the course repo on [Github](https://github.com/faridcher/MachineLearningMOOC).
+A while ago I took an online machine learning course offer by Andrew NG on Coursera platform. The course was spectacular although all the assignments MUST be sumbited via MATLAB/OCTAVE. This would be a tedious effort for users who have spent a lot of time learning the basics of R language. Thus, I developed all the starter codes for R users in order to be able to carry out their assignment in R and submit them to Coursera directly from R. For more information visit the course Repo on [Github](https://github.com/faridcher/MachineLearningMOOC).
 
 ## Screen-shots
 A few screen-shots of the plots produced in R:
