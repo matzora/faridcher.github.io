@@ -1,5 +1,5 @@
 ---
-title:  "ArcGIS Command's GUID Generator"
+title:  "ArcGIS commands GUID generator"
 mathjax: false
 categories: 
   - software

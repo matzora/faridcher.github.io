@@ -1,5 +1,5 @@
 ---
-title:  "Online Machine Learning For R Users"
+title:  "Online machine learning course for R users"
 mathjax: false
 categories: 
   - Science
