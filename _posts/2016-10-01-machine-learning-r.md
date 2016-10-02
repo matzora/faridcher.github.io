@@ -2,9 +2,10 @@
 title:  "Online Machine Learning For R Users"
 mathjax: false
 categories: 
-  - AI
+  - Science
 tags:
   - Machine-Learning
+  - AI
   - MOOC
   - R
 ---
