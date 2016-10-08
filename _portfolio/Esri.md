@@ -20,16 +20,16 @@ gallery:
 I have started working seriously with ESRI products since I graduated from university in 2010. I have been part of many national GIS projects in both private and governmental sectors although my focus of contributions has been on utility (electricity, gas and etc) and municipality GIS application. Here are an excerpt of my projects:
 
 ## ArcObjects
-I love ArcObjects due to its matureness. There is almost no GIS library that is as complete as ArcObjects. ArcObjects is robust, stable and covers almost any GIS task from trivial spatial query processing to advanced network analysis. Many believes learning ArcObjects has a steep learning curve and I admit they are right. However I have been involved with ArcObjects development since 2010. As of today I am able to solve even the [toughest GIS problems](http://gis.stackexchange.com/questions/165077/how-to-add-a-new-parcel-inside-parcel-fabric-from-existing-parcel-features-arco/166021#166021) with ArcObjects in a timely manner.
+I love ArcObjects due to its matureness. There is almost no GIS library that is as complete as ArcObjects. ArcObjects is robust, stable and covers almost any GIS task from trivial spatial query processing to advanced network analysis. Many people believe learning ArcObjects has a steep learning curve and I admit they are right. However I have been involved in ArcObjects development since 2010 and consider myself as a pro. As of today I am able to solve even the [toughest GIS problems](http://gis.stackexchange.com/questions/165077/how-to-add-a-new-parcel-inside-parcel-fabric-from-existing-parcel-features-arco/166021#166021) with ArcObjects in a timely manner.
 
-### Digsilent/CYME converter
-Electricity networks are amongst the complex type of geometric network that can be easily managed within the context of GIS. Feeders, overhead/underground lines, substations, switches, busbars and transformers are the prevalent electricity network features. GIS is the most appropriate device to store, manage and analyze static electricity network. However to analyze dynamism of electric network one may need other specialized software packages for example [Digsilent](www.digsilent.de) or [Cyme](http://www.cyme.com/software/cymdist). 
-This ArcGIS Addin first traces an electricity network and then exports features to an intermediate format (`.dgs` for Digsilent and `.txt` for CYME). The generated textual file can be imported to the corresponding software to carry out further analysis e.g. short circuit analysis.
+### Digsilent/CYME converter Addin
+Electricity network is one of the most complex type of geometric networks that can be easily managed within the context of GIS. Feeders, overhead/underground lines, substations, switches, busbars and transformers are the prevalent electricity network features. GIS is the most appropriate tool to store, manage and analyze static electrical assets. However to analyze dynamism of electric network one may need other specialized software packages for example [Digsilent](www.digsilent.de) or [Cyme](http://www.cyme.com/software/cymdist). 
+I developed this ArcGIS Addin to trace an electric network and then export spatial features to an intermediate format (`.dgs` for Digsilent and `.txt` for CYME). The generated textual file can be imported to the corresponding software to carry out further analysis i.e. short circuit analysis.
 
-### Network Tracer
-I have developed custom network tracers such as "Feeder Network Tracer" for electric and "Valve Isolation" for gas network.
+### Network Tracer Tools
+I have developed custom network tracers such as "Feeder Network Tracer" for electric and "Valve Isolation Tracer" for gas network.
 
-### SDE User Manager
+### SDE User Manager Application
 Although it is feasible to manage users and define security levels for data sources with ArcGIS built-in Geoprocessing tools, it is not the most intuitive way to achieve these goals. `Sde User Manager` is a WinForm ArcEngine application to streamline user management workflows. It allows the system administrator to do the following tasks in an unified GUI:
 
 - Create, edit and remove users and groups from Geodatabase 
@@ -39,7 +39,7 @@ Although it is feasible to manage users and define security levels for data sour
 
 ![SdeUserManager]({{base_path}}/images/SdeUserManager.JPG)
 
-### Basemap Manager
+### Basemap Manager Addin
 Google maps are appealing and everybody loves them. This ArcGIS Addin utilizes Google maps API and add the following functionalities to ArcMap:
 
 - Add Google maps and satellite imagery layers to ArcMap as a WMTS layer and supports tile caching. It can be used in online and offline mode
@@ -49,12 +49,12 @@ Google maps are appealing and everybody loves them. This ArcGIS Addin utilizes G
 ![OnlineMaps]({{base_path}}/images/OnlineMaps.JPG)
 
 ### Editor/Geodatabase Extension
-I have used "Editor Extension" to create editor construction tools to draw features in batch mode. For example in Gas utility network the GIS data editor user draws a "service line" and "service point" simultaneously instead of drawing them one by one.
+I have used "Editor Extension" to create editor construction tools to draw features in batch mode. For example in a gas utility network the GIS data editor can draw a "service line" and "service point" simultaneously instead of drawing them one by one.
 
-Geodatabase extension is the best approach to feature's update/insert/delete event handling because they are application independent. I have used them with projects that the edits come from both web, mobile and enterprise users.
+Geodatabase extension is the best approach to feature's update/insert/delete event handling because they are application independent. I have used them with projects that the edits were come from web, mobile and enterprise users.
 
-### SOE
-Although an Arcpy script can be shared as a Geoprocessing tool and be used by ArcGIS Server, yet they are not very efficient, meaning they have a huge memory footprint. For fine grained and repeated work-flows ESRI suggests `Server Objects Extension (SOE)`. I have not been involved in many "ArcGIS Server" based projects but I have exposed some of my handy functions (e.g. network tracers) as `RESTful` web services through SOE to be called by 3rd parties applications. In addition, piping a functionality through standard OGC web services allows ArcGIS web clients such as Javascript to consume them efficiently.
+### SOE (Server Objects Extension)
+Although an Arcpy script can be shared as a Geoprocessing tool and be used by ArcGIS Server, yet they are not very efficient; they have a large memory footprint. For fine grained and repeated work-flows ESRI suggests `Server Objects Extension (SOE)`. I have not been involved in many "ArcGIS Server" based projects but I have exposed some of my handy functions (e.g. network tracers) as `RESTful` web services through SOE to be called by 3rd party applications. In addition, piping a functionality through standard OGC web services allows ArcGIS web clients, such as javascript api, to consume them efficiently.
 
 ## ArcPy
 I have written many python (Arcpy) scripts to automate my workflows. Python is part of ArcGIS system and it is integrated with different sections of the software - ArcGIS system without python is not imaginable. An excerpt of my python scripts:
