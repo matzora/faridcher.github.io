@@ -15,7 +15,7 @@ modified: 2016-04-22T10:00:00
 {% include base_path %}
 
 <h3 class="archive__subtitle">Recent News</h3>
-- I am a research scholar at the university of Maryland at College Park (09-25-2016). I am honored to be advised by [Dr. Gurarie](https://terpconnect.umd.edu/~egurarie) and [Dr. Fagan](www.clfs.umd.edu/biology/faganlab/people/index.html).
+- I am a research scholar at the university of Maryland at College Park (09-25-2016). I am honored to be advised by [Dr. Gurarie](https://terpconnect.umd.edu/~egurarie) and [Dr. Fagan](http://www.clfs.umd.edu/biology/faganlab/people/index.html).
 - I am a 4th year Ph.D. candidate at the university of Tehran (08-25-2012).
  
 {% include toc icon="" title="Table of Contents" %}
