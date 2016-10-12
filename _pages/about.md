@@ -15,18 +15,18 @@ modified: 2016-04-22T10:00:00
 {% include base_path %}
 
 <h3 class="archive__subtitle">Recent News</h3>
-- I am a research scholar at university of Maryland at College Park (09-25-2016).
-- I am a 4th year PhD candidate at university of Tehran (08-25-2012).
+- I am a research scholar at the university of Maryland at College Park (09-25-2016). I am honored to be advised by [Dr. Gurarie](https://terpconnect.umd.edu/~egurarie) and [Dr. Fagan](www.clfs.umd.edu/biology/faganlab/people/index.html).
+- I am a 4th year Ph.D. candidate at the university of Tehran (08-25-2012).
  
 {% include toc icon="" title="Table of Contents" %}
 
 ## Intro
 
-My background roots in surveying and Geomatics engineering, although I have had a passion for computer science since high school. I chose GIS engineering as my graduate level major due its closeness and relevance to computer science. I have worked with different software companies and have developed miscellaneous applications based on many software platforms specially in GIS.
+My background roots in surveying and Geomatics engineering, although I have had a passion for computer science since high school. I chose GIS engineering as my graduate level major due its closeness and relevance to computer science. I have worked with different software companies and have developed miscellaneous applications based on many software platforms especially in GIS.
 
 I have a growing passion for open-source software and contributed to some packages, all can be found on my [github profile](https://github.com/faridcher). I usually compile and use open source tools that are written via GNU C++ in Windows using Ming/Msys.
 
-Right now I am extremely involved in my research focused on movement ecology. I am trying to analyze Asiatic cheetah movement patterns and link its behavior to ambient environment.
+Right now I am extremely involved in my research focused on movement ecology. I am trying to analyze Asiatic cheetah movement patterns and link its behavior to the ambient environment.
 
 Here is a short list of my professional history.
 
@@ -58,12 +58,12 @@ GE Smallworld|Magick, C++|Smallworld GIS, Oracle Insync|
 Oracle|PL/SQL, SQL, JavaScript/HTML5|Oracle Spatial and Graph, Mapviewer|
 OSGEO|PG/SQL, SQL, C, C++|Postgresql, PostGIS, Mapnik, Mapserver, OSM|
 
-I use `git` as my primary versioning and revision control system and `github` for code sharing.
+I use `git` as my primary versioning and revision control system and `Github` for code sharing.
 
 ## Scientific 
-Among many programming languages available for scientific purposes including Python, R, Matlab/Octave, Julia and etc, I have chosen R as my primary scientific language because it is both open-source, popular and has a huge community behind it. If I had any performance issue with R I would switch into Julia at any time. Furthermore I have utilized [Oracle R enterprise](http://www.oracle.com/technetwork/database/database-technologies/r/r-enterprise/overview/index.html) with the case of large scale problems when memory shortage had become an issue. 
+Among many programming languages available for scientific purposes including Python, R, Matlab/Octave, Julia and etc, I have chosen R as my primary scientific language because it is both open-source, popular and has a huge community behind it. If I had any serious performance issue with R I would switch into Julia at any time. Furthermore, I have utilized [Oracle R enterprise](http://www.oracle.com/technetwork/database/database-technologies/r/r-enterprise/overview/index.html) with the case of large scale problems when memory shortage had become an issue. 
 
-For academic writings I use RMarkdown, LateX and MS Word in order of preference. Text based formats (`.rmd`,`.tex`,`.rnw`) are always preferred because they can simply be versioned.
+For academic writings, I use RMarkdown, LateX, and MS Word in order of preference. Text-based formats (`.rmd`,`.tex`,`.rnw`) are always preferred by me because they can simply be versioned.
 
 ## Language
 English (Fluent), Persian (Native)

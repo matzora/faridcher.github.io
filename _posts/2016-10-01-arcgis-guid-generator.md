@@ -9,7 +9,7 @@ tags:
   - extension
 ---
 
-Those who have been involved in ESRI software development know how important it is to know the GUID of some commands. In this regard I have developed an extension that enables you to catch the GUID of any command or button you click in ArcMap. To try the extension see the [project page](https://github.com/faridcher/ArcGIS-GUID).
+Those who have been involved in ESRI software development know how important it is to know the GUID of some commands. In this regard, I have developed an extension that enables you to catch the GUID of any command or button you click in ArcMap. To try the extension see the [project page](https://github.com/faridcher/ArcGIS-GUID).
 
 ## Features
 

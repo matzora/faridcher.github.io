@@ -30,7 +30,7 @@ gallery:
 My experience with oracle Spatial backs to 2012-2013; working as a database developer in a private company, [NRS](http://www.nrsgeo.com/). I have been involved in a project for municipality called [`detailed plan of Tehran`](http://en.tehran.ir/ViewArticle/tabid/77/ArticleId/630/Detailed-Plan-Is-Tehrans-Strategic-Document-for-Urban-Management.aspx). The technologies that were used in the project were ASP.NET, C#.NET, oracle Spatial (DB back-end), Oracle maps (as a web map viewer) and ESRI ArcGIS with ArcSDE to edit the data.
 
 ## PLSQL / SQL
-Working with large spatial tables with over 1 million parcels is a challenge even with the best database in the world. My main role was to develop and tune highly optimized spatial queries and save them as PLSQL functions/procedures so the C#.NET developer could call them from the application layer. To write highly performable spatial queries I had to take advantage of Oracle advanced features such as table partitioning, parallel query processing and spatial data clustering. 
+Working with large spatial tables with over 1 million parcels is a challenge even with the best database in the world. My main role was to develop and tune highly optimized spatial queries and save them as PLSQL functions/procedures so the C#.NET developer could call them from the application layer. To write highly performable spatial queries I had to take advantage of Oracle advanced features such as table partitioning, parallel query processing, and spatial data clustering. 
 
 ### Spatial Queries and Tuning
 Among many spatial operators and predicates available in oracle Spatial, the most useful operations are `buffering`, `intersect` and `nearest_neighbour`. For example: finding the zoning of a parcel which is the intersection of zoning and parcel tables. 
@@ -41,21 +41,21 @@ A special algorithm in this project was to find the adjacent road segment to a s
 After trying many algorithms we ended up with the following procedure to solve the problem:
 
 - `buffer` the road layer with a radius double the width of the road features (`R = 2 * Road_Width`)
-- select from buffered road using `intersect` of parcel and buffered road table
+- select from the buffered road using `intersection` of the parcel and the buffered road table
 - extract the road width and name from the selected road features
 
 It turned out that this simple algorithm is giving the best answer compared to other implemented approaches.
 
 ## Map Builder
-Map builder is an Java SE application to create and define symbology for themes (layers), creating Base Maps, Tile Layers and etc. Map builder works mainly with the meta data tables of oracle Spatial so care must be taken while backing up the database tables.
+Map builder is a Java SE application to create and define symbology for themes (layers), creating Base Maps, Tile Layers and etc. Map builder works mainly with the metadata tables of oracle Spatial so care must be taken while backing up the database tables.
 
 ## Oracle Maps Javascript API
-OpenLayers, ArcGIS Server, Geoserver, UMN Mapserver were all possible candidates as the web map viewer component of the project. However Oracle Mapviewer javascript api was chosen as the mapping framework due to its performance, scalability and ease of use. Oracle Mapviewer has many javascript classes and functions for mapping between in-database and web objects. Benchmarking Oracle Mapviewer over a weak Internet connection showed promising performance so it was selected as the web component to move forward. 
+OpenLayers, ArcGIS Server, Geoserver, UMN Mapserver were all possible candidates as the web map viewer component of the project. However, Oracle Mapviewer javascript API was chosen as the mapping framework due to its performance, scalability, and ease of use. Oracle Mapviewer has many javascript classes and functions for mapping between in database and web objects. Benchmarking Oracle Mapviewer over a weak Internet connection showed promising performance so it was selected as the web component to move forward. 
 My role was to use the javascript API to write client side (js) code for the following tasks:
 
 - showing the map, themes (e.g. feature layers), tile layers etc
 - creating fancy `table of contents (TOC)``
-- enable identify for some themes
+- enable `feature identification` of some themes
 - export current map extent as jpeg/  png
 - simple feature creation and update using redlining
 - searching based on the attributes of some layers
@@ -63,6 +63,6 @@ My role was to use the javascript API to write client side (js) code for the fol
 
 
 ## Screen-shots
-Here are some screen-shots of the final project:
+Here are some screenshots of the final project:
 
 {% include gallery caption="Snapshots of the Detailed Plan of Tehran" %}
