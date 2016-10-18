@@ -11,6 +11,8 @@ sidebar:
     text: "Database SQL/PLSQL Programmer, Front-End Developer"
   - title: "Responsibilities"
     text: "Develope custom database functions and procedures for the web developer, prepare map based javascript code for the front-end web developer."
+  - title: "OTN Profile"
+    text: [Click Here](https://community.oracle.com/edit-profile-avatar!input.jspa?targetUser=852372&customTheme=otn)
 gallery:
   - url: taf/hq/Search.jpg
     image_path: taf/lq/Search.jpg
