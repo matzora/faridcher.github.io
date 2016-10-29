@@ -5,6 +5,9 @@ main:
 
   - title: "About"
     url: /about/
+  
+  - title: "portfolio"
+    url: /portfolio/
 
   - title: "blog archive"
     url: /blog-archive/
