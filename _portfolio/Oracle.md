@@ -1,6 +1,6 @@
 ---
 title: "Oracle DBMS"
-excerpt: "A summary of my involvement with oracle Spatial and Graph"
+excerpt: "A summary of my involvement in oracle Spatial and Graph"
 header:
   <!-- image: foo-bar-identity.jpg -->
   teaser: Oracle_Spatial.png
