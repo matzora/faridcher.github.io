@@ -1,6 +1,8 @@
 ---
 title:  "R Markdown"
 mathjax: true
+<!-- settings:
+    enable_mathjax: true -->
 categories: 
   - test
 tags:
