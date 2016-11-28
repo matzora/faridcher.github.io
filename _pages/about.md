@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "I am a PhD student in GIS at University of Tehran"
+excerpt: "PhD student in GIS at University of Tehran"
 categories:
   - About
 tags:
