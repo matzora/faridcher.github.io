@@ -27,5 +27,3 @@ To replicate Smallworld VMDS (version managed data store) in oracle, I had to ut
 
 ## Digsilent Converter
 I also wrote some Magik code to convert GIS objects to DigSilent objects. 
-
-The bottom line is that, despite my huge involvement in the Smallworld platform during this period, I concluded that it is not a promising platform to invest more time in it.
