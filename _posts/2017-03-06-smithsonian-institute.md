@@ -1,5 +1,5 @@
 ---
-title:  "R Advanced programming"
+title:  "Smithsonian Institution (SI) Conservation and Research Center Visit"
 mathjax: false
 categories: 
   - Science
@@ -9,7 +9,7 @@ tags:
   - R
 ---
 
-I study the movement ecology of Asiatic cheetah, a rare cat only found in Iran deserts these days. Today, I visited a cheetah expert, Adrienne Crosier, at Smithsonian Institution (SI) Conservation and Research Center and she kindly showed their cheetah facility. They had 20 cheetahs with 2 females in pregnancy; one of which was supposed to give birth to 5 cheetah cubs! The same female cheetah had given birth to 7 cubs in the past. It was a fantastic and rare experience, because the facility was not open to public and I was very lucky to be able to visit it. As they have been successful at captive breeding of the African cheetah, hopefully, I will take that knowledge to my country (Iran) to survive the Asiatic cheetah, which only 50-70 are remained based on the recent reports. 
+I study the movement ecology of Asiatic cheetah, a rare cat only found in Iran deserts these days. Today, I visited a cheetah expert, [Adrienne Crosier](https://global.si.edu/people/adrienne-crosier), at Smithsonian Institution (SI) Conservation and Research Center and she kindly showed their cheetah facility. They had 20 cheetahs with 2 females in pregnancy; one of which was supposed to give birth to 5 cheetah cubs! The same female cheetah had given birth to 7 cubs in the past. It was a fantastic and rare experience, because the facility was not open to public and I was very lucky to be able to visit it. As they have been successful at captive breeding of the African cheetah, hopefully, I will take that knowledge to my country (Iran) to survive the Asiatic cheetah, which only 50-70 are remained based on the recent reports. 
 
 
 I also met with some other Postdoctoral Fellows Dr. Katie Edwards and Dr. Nucharin Songsasen and talk about research and movement ecology of Dhole. 
