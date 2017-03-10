@@ -14,10 +14,10 @@ I study the movement ecology of Asiatic cheetah, a rare cat only found in Iran d
 
 I also met with some other Postdoctoral Fellows Dr. Katie Edwards and Dr. Nucharin Songsasen and talk about research and movement ecology of Dhole. 
 
-In addition, I met with Chris Flemming who were busy developing a parallelized quasi newton optimizer and talk about various aspects of his ctmm package. 
+In addition, I met with Chris Flemming who were busy developing a parallelized quasi newton optimizer and talk about various aspects of his [ctmm package](https://cran.r-project.org/web/packages/ctmm/index.html). 
 
 
-![From right:Me, Katie, Jeff, Adrienne](http:\\www.fcheraghi.ir\images\smithsonian\1.jpg)
+![From right:Me, Katie, Jeff, Adrienne](http:\\www.fcheraghi.ir\uploads\smithsonian\1.jpg)
 
-![Cheetah1](http:\\www.fcheraghi.ir\images\smithsonian\2.jpg)
-![Cheetah2](http:\\www.fcheraghi.ir\images\smithsonian\3.jpg)
+![Cheetah1](http:\\www.fcheraghi.ir\uploads\smithsonian\2.jpg)
+![Cheetah2](http:\\www.fcheraghi.ir\uploads\smithsonian\3.jpg)
