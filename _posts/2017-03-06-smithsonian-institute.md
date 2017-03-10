@@ -17,7 +17,7 @@ I also met with some other Postdoctoral Fellows Dr. Katie Edwards and Dr. Nuchar
 
 In addition, I met with Chris Flemming who were busy developing a parallelized quasi newton optimizer and talk about various aspects of his [ctmm package](https://cran.r-project.org/web/packages/ctmm/index.html). 
 
-![From right: Me, Katie, Jeff, Adrienne](http://www.fcheraghi.ir/uploads/smithsonian/a1.jpg)
+![From right: Me, Katie, Jeff, Adrienne]({{base_path}}/uploads/smithsonian/a1.jpg)
 
 ![Cheetah1](http://www.fcheraghi.ir/uploads/smithsonian/a2.jpg)
 ![Cheetah2](http://www.fcheraghi.ir/uploads/smithsonian/a3.jpg)
