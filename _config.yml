@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Farid Cheraghi"
+name                     : "Faridedin Cheraghi"
 description              : "My persoanl website."
 url                      : # the base hostname & protocol for your site e.g. "http://faridcher.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,7 +61,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Farid Cheraghi"
+  name             : "Faridedin Cheraghi"
   avatar           : "bio-photo.jpg"
   bio              : "PhD Candidate in GIScience"
   location         : "Washington D.C."
