@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Faridedin Cheraghi"
-description              : "My persoanl website."
+description              : "I don't blog very often and this site mostly serves as a hub to my other profiles like Github, Linkedin, Researchgate, etc. and my open-source projects."
 url                      : # the base hostname & protocol for your site e.g. "http://faridcher.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,8 +63,8 @@ google_ad_slot           :
 author:
   name             : "Faridedin Cheraghi"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD Candidate in GIScience"
-  location         : "Washington D.C."
+  bio              : "PhD in GIScience"
+  location         : "Tehran, Iran"
   email            : "faridcher@gmail.com"
   uri              : ""
   bitbucket        :
@@ -90,7 +90,7 @@ author:
   xing             :
   youtube          :
   gscholar         : 
-
+  researchgate     : 
 
 # Reading Files
 include:
