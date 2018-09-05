@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Faridedin Cheraghi"
+name                     : "Farid Cheraghi"
 description              : "I don't blog very often and this site mostly serves as a hub to my other profiles like Github, Linkedin, Researchgate, etc. and my open-source projects."
 url                      : # the base hostname & protocol for your site e.g. "http://faridcher.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

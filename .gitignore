@@ -8,7 +8,7 @@ _site
 codekit-config.json
 node_modules
 npm-debug.log*
-faridcher.cmd
+fcheraghi.cmd
 *Thumbs.db
 *.picasa.ini
 .gitignore
