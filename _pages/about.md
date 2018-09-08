@@ -8,7 +8,7 @@ tags:
   - resume
   - background
   - academia
-  - Faridedin Cheraghi
+  - Farid Cheraghi
 modified: 2016-04-22T10:00:00
 ---
 
